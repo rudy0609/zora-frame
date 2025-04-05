@@ -1,0 +1,11 @@
+{
+  "name": "zora-tip-jar",
+  "version": "0.1.0",
+  "description": "Farcaster Frame for tipping creators with Zora coin",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "echo \"Add start script\""
+  },
+  "author": "",
+  "license": "MIT"
+}
